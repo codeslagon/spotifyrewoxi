@@ -7,4 +7,4 @@ api_id = 7257970 # my.telegram.org app_id
 api_hash = a75ce5263a6cac50d4acdd4f5d5fb5d3 # my.telegram.org api_hash
 token = 5661322133:AAGIREru_3YdMmyv-irgV_PG-a9pG9HHwiw # t.me/BotFather new bot token
 chat = -1001624948735 # telegram chat id t.me/ReWoxiSpotify
-msg_id = # telegram message_id
+msg_id = 8 # telegram message_id
