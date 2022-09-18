@@ -2,7 +2,6 @@
 
 from email import message
 import spotipy
-from config import
 from spotipy.oauth2 import SpotifyOAuth
 from pyrogram import Client
 from pyrogram.types import InputMediaPhoto
