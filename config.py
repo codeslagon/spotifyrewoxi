@@ -1,10 +1,10 @@
-SPOTIPY_CLIENT_ID = "f10f56d793d34dc7918abc5e6b59c02d" # spotify developer portal client_id
-SPOTIPY_CLIENT_SECRET = "6efe7650b33d41768c4c1df1dc450993" # spotify developer portal client_secret_id
+SPOTIPY_CLIENT_ID = "1ef67e4f66eb423e92071c29035f3437" # spotify developer portal client_id
+SPOTIPY_CLIENT_SECRET = "cd4b8cd8e9b143789790456b7e2fde8b" # spotify developer portal client_secret_id
 SPOTIPY_REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = "user-read-currently-playing"
 MARKET = "TR"
 api_id = 7257970 # my.telegram.org app_id
 api_hash = "a75ce5263a6cac50d4acdd4f5d5fb5d3" # my.telegram.org api_hash
-token = "5661322133:AAGIREru_3YdMmyv-irgV_PG-a9pG9HHwiw" # t.me/BotFather ne
-chat = "-1001624948735"
-msg_id = 8
+token = "6297855647:AAHU_AD6gDeiQ1RGYDRztHkUWmkfJNQu7Is" # t.me/BotFather ne
+chat = "-1001776703163"
+msg_id = 764
